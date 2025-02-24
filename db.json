@@ -221,7 +221,7 @@
       "category": "맛집",
       "name": "경기 부천시에서 열리는 행사11",
       "dateTime": "2025-02-12T15:00:57.498Z",
-      "date": "2025-02-12",
+      "date": "2025-02-13",
       "location": {
         "region_1depth_name": "경기",
         "region_2depth_name": "부천시"
@@ -239,7 +239,7 @@
       "category": "맛집",
       "name": "서울 성북구에서 열리는 행사12",
       "dateTime": "2025-02-12T16:00:57.498Z",
-      "date": "2025-02-12",
+      "date": "2025-02-13",
       "location": {
         "region_1depth_name": "서울",
         "region_2depth_name": "성북구"
@@ -257,7 +257,7 @@
       "category": "맛집",
       "name": "경기 화성시에서 열리는 행사13",
       "dateTime": "2025-02-11T17:00:57.498Z",
-      "date": "2025-02-11",
+      "date": "2025-02-12",
       "location": {
         "region_1depth_name": "경기",
         "region_2depth_name": "화성시"
@@ -275,7 +275,7 @@
       "category": "맛집",
       "name": "서울 양천구에서 열리는 행사14",
       "dateTime": "2025-02-12T18:00:57.498Z",
-      "date": "2025-02-12",
+      "date": "2025-02-13",
       "location": {
         "region_1depth_name": "서울",
         "region_2depth_name": "양천구"
@@ -293,7 +293,7 @@
       "category": "맛집",
       "name": "경기 평택시에서 열리는 행사15",
       "dateTime": "2025-02-11T19:00:57.498Z",
-      "date": "2025-02-11",
+      "date": "2025-02-12",
       "location": {
         "region_1depth_name": "경기",
         "region_2depth_name": "평택시"
@@ -311,7 +311,7 @@
       "category": "보드게임",
       "name": "서울 강동구에서 열리는 행사16",
       "dateTime": "2025-02-11T20:00:57.498Z",
-      "date": "2025-02-11",
+      "date": "2025-02-12",
       "location": {
         "region_1depth_name": "서울",
         "region_2depth_name": "강동구"
@@ -329,7 +329,7 @@
       "category": "보드게임",
       "name": "경기 의정부시에서 열리는 행사17",
       "dateTime": "2025-02-11T21:00:57.498Z",
-      "date": "2025-02-11",
+      "date": "2025-02-12",
       "location": {
         "region_1depth_name": "경기",
         "region_2depth_name": "의정부시"
@@ -347,7 +347,7 @@
       "category": "보드게임",
       "name": "서울 노원구에서 열리는 행사18",
       "dateTime": "2025-02-11T22:00:57.498Z",
-      "date": "2025-02-11",
+      "date": "2025-02-12",
       "location": {
         "region_1depth_name": "서울",
         "region_2depth_name": "노원구"
