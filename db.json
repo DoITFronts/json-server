@@ -20,7 +20,7 @@
       "host": {
         "id": "100",
         "name": "홍길동",
-        "profileImage": "https://randomuser.me/api/portraits/men/10.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -43,7 +43,7 @@
       "host": {
         "id": "101",
         "name": "김철수",
-        "profileImage": "https://randomuser.me/api/portraits/men/11.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -66,7 +66,7 @@
       "host": {
         "id": "102",
         "name": "이영희",
-        "profileImage": "https://randomuser.me/api/portraits/women/12.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -89,7 +89,7 @@
       "host": {
         "id": "103",
         "name": "박지성",
-        "profileImage": "https://randomuser.me/api/portraits/men/13.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -112,7 +112,7 @@
       "host": {
         "id": "104",
         "name": "최미나",
-        "profileImage": "https://randomuser.me/api/portraits/women/14.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -135,7 +135,7 @@
       "host": {
         "id": "105",
         "name": "정민수",
-        "profileImage": "https://randomuser.me/api/portraits/men/15.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -158,7 +158,7 @@
       "host": {
         "id": "106",
         "name": "강수진",
-        "profileImage": "https://randomuser.me/api/portraits/women/16.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -181,7 +181,7 @@
       "host": {
         "id": "107",
         "name": "윤도현",
-        "profileImage": "https://randomuser.me/api/portraits/men/17.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -204,7 +204,7 @@
       "host": {
         "id": "108",
         "name": "송혜교",
-        "profileImage": "https://randomuser.me/api/portraits/women/18.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -227,7 +227,7 @@
       "host": {
         "id": "109",
         "name": "유재석",
-        "profileImage": "https://randomuser.me/api/portraits/men/19.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -250,7 +250,7 @@
       "host": {
         "id": "110",
         "name": "김태희",
-        "profileImage": "https://randomuser.me/api/portraits/women/20.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -273,7 +273,7 @@
       "host": {
         "id": "111",
         "name": "이민호",
-        "profileImage": "https://randomuser.me/api/portraits/men/21.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -296,7 +296,7 @@
       "host": {
         "id": "112",
         "name": "박신혜",
-        "profileImage": "https://randomuser.me/api/portraits/women/22.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -319,7 +319,7 @@
       "host": {
         "id": "113",
         "name": "조인성",
-        "profileImage": "https://randomuser.me/api/portraits/men/23.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -342,7 +342,7 @@
       "host": {
         "id": "114",
         "name": "한지민",
-        "profileImage": "https://randomuser.me/api/portraits/women/24.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -365,7 +365,7 @@
       "host": {
         "id": "115",
         "name": "장동건",
-        "profileImage": "https://randomuser.me/api/portraits/men/25.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -388,7 +388,7 @@
       "host": {
         "id": "116",
         "name": "전지현",
-        "profileImage": "https://randomuser.me/api/portraits/women/26.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -411,7 +411,7 @@
       "host": {
         "id": "117",
         "name": "권상우",
-        "profileImage": "https://randomuser.me/api/portraits/men/27.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -434,7 +434,7 @@
       "host": {
         "id": "118",
         "name": "손예진",
-        "profileImage": "https://randomuser.me/api/portraits/women/28.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     },
     {
@@ -457,7 +457,7 @@
       "host": {
         "id": "119",
         "name": "원빈",
-        "profileImage": "https://randomuser.me/api/portraits/men/29.jpg"
+        "profileImage": "/assets/card/example_image.png"
       }
     }
   ]
