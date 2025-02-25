@@ -16,7 +16,12 @@
       "description": "성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! 성남시에서 즐거운 술 모임! ",
       "isLiked": false,
       "isConfirmed": true,
-      "isCompleted": false
+      "isCompleted": false,
+      "host": {
+        "id": "100",
+        "name": "홍길동",
+        "profileImage": "https://randomuser.me/api/portraits/men/10.jpg"
+      }
     },
     {
       "id": "1",
@@ -34,7 +39,12 @@
       "description": "유쾌한 동작구 술자리!",
       "isLiked": true,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "101",
+        "name": "김철수",
+        "profileImage": "https://randomuser.me/api/portraits/men/11.jpg"
+      }
     },
     {
       "id": "2",
@@ -52,7 +62,12 @@
       "description": "강남에서 핫한 술 모임!",
       "isLiked": true,
       "isConfirmed": true,
-      "isCompleted": false
+      "isCompleted": false,
+      "host": {
+        "id": "102",
+        "name": "이영희",
+        "profileImage": "https://randomuser.me/api/portraits/women/12.jpg"
+      }
     },
     {
       "id": "3",
@@ -70,7 +85,12 @@
       "description": "강서구에서 시원한 술 한잔!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "103",
+        "name": "박지성",
+        "profileImage": "https://randomuser.me/api/portraits/men/13.jpg"
+      }
     },
     {
       "id": "4",
@@ -88,7 +108,12 @@
       "description": "고양시에서 즐기는 술 파티!",
       "isLiked": true,
       "isConfirmed": true,
-      "isCompleted": false
+      "isCompleted": false,
+      "host": {
+        "id": "104",
+        "name": "최미나",
+        "profileImage": "https://randomuser.me/api/portraits/women/14.jpg"
+      }
     },
     {
       "id": "5",
@@ -106,7 +131,12 @@
       "description": "마포 감성 카페 모임!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "105",
+        "name": "정민수",
+        "profileImage": "https://randomuser.me/api/portraits/men/15.jpg"
+      }
     },
     {
       "id": "6",
@@ -124,7 +154,12 @@
       "description": "송파 힐링 카페 투어!",
       "isLiked": true,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "106",
+        "name": "강수진",
+        "profileImage": "https://randomuser.me/api/portraits/women/16.jpg"
+      }
     },
     {
       "id": "7",
@@ -142,7 +177,12 @@
       "description": "수원의 숨겨진 카페 발견!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "107",
+        "name": "윤도현",
+        "profileImage": "https://randomuser.me/api/portraits/men/17.jpg"
+      }
     },
     {
       "id": "8",
@@ -160,7 +200,12 @@
       "description": "용산 핫플레이스 카페 탐방!",
       "isLiked": true,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "108",
+        "name": "송혜교",
+        "profileImage": "https://randomuser.me/api/portraits/women/18.jpg"
+      }
     },
     {
       "id": "9",
@@ -178,7 +223,12 @@
       "description": "안산 분위기 좋은 카페에서!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "109",
+        "name": "유재석",
+        "profileImage": "https://randomuser.me/api/portraits/men/19.jpg"
+      }
     },
     {
       "id": "10",
@@ -196,7 +246,12 @@
       "description": "구로 조용한 카페에서 힐링!",
       "isLiked": true,
       "isConfirmed": true,
-      "isCompleted": false
+      "isCompleted": false,
+      "host": {
+        "id": "110",
+        "name": "김태희",
+        "profileImage": "https://randomuser.me/api/portraits/women/20.jpg"
+      }
     },
     {
       "id": "11",
@@ -214,7 +269,12 @@
       "description": "서초 보드게임 매니아 모여라!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "111",
+        "name": "이민호",
+        "profileImage": "https://randomuser.me/api/portraits/men/21.jpg"
+      }
     },
     {
       "id": "12",
@@ -232,7 +292,12 @@
       "description": "부천 맛집 탐험대!",
       "isLiked": true,
       "isConfirmed": true,
-      "isCompleted": false
+      "isCompleted": false,
+      "host": {
+        "id": "112",
+        "name": "박신혜",
+        "profileImage": "https://randomuser.me/api/portraits/women/22.jpg"
+      }
     },
     {
       "id": "13",
@@ -250,7 +315,12 @@
       "description": "성북구 숨은 맛집 찾기!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "113",
+        "name": "조인성",
+        "profileImage": "https://randomuser.me/api/portraits/men/23.jpg"
+      }
     },
     {
       "id": "14",
@@ -268,7 +338,12 @@
       "description": "화성 맛집 정복!",
       "isLiked": true,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "114",
+        "name": "한지민",
+        "profileImage": "https://randomuser.me/api/portraits/women/24.jpg"
+      }
     },
     {
       "id": "15",
@@ -286,7 +361,12 @@
       "description": "양천구 맛집 털기!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "115",
+        "name": "장동건",
+        "profileImage": "https://randomuser.me/api/portraits/men/25.jpg"
+      }
     },
     {
       "id": "16",
@@ -304,7 +384,12 @@
       "description": "평택 현지인 추천 맛집!",
       "isLiked": true,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "116",
+        "name": "전지현",
+        "profileImage": "https://randomuser.me/api/portraits/women/26.jpg"
+      }
     },
     {
       "id": "17",
@@ -322,7 +407,12 @@
       "description": "강동 보드게임 고수들의 만남!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "117",
+        "name": "권상우",
+        "profileImage": "https://randomuser.me/api/portraits/men/27.jpg"
+      }
     },
     {
       "id": "18",
@@ -340,7 +430,12 @@
       "description": "의정부 보드게임 한판 승부!",
       "isLiked": true,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "118",
+        "name": "손예진",
+        "profileImage": "https://randomuser.me/api/portraits/women/28.jpg"
+      }
     },
     {
       "id": "19",
@@ -358,7 +453,12 @@
       "description": "노원 보드게임 친목 모임!",
       "isLiked": false,
       "isConfirmed": false,
-      "isCompleted": true
+      "isCompleted": true,
+      "host": {
+        "id": "119",
+        "name": "원빈",
+        "profileImage": "https://randomuser.me/api/portraits/men/29.jpg"
+      }
     }
   ]
 }
